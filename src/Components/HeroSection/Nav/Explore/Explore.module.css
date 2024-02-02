@@ -1,0 +1,13 @@
+.wrapper {
+    height: 26px;
+    width: 431px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .wrapper h4 {
+    font-weight: 900;
+    font-size: 1.1rem;
+  }
+  

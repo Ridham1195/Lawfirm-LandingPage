@@ -1,0 +1,77 @@
+.wrapper{
+    height: 900px;
+    background-color: var(--color-secondary);
+    display: flex;
+    justify-content: center;
+    padding-top: 53px;
+}
+
+.herodiv{
+    height: 636px;
+    width: 1135px;
+}
+
+.nav{
+    height: 81px;
+}
+
+.bottomsection{
+    height: 555px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.bottomsectionHeading{
+    width: 571px;
+    height: 194px;
+    text-wrap: wrap;
+}
+.bottomsectionHeading h1{
+    font-weight: 500;
+    font-size: 66px;
+    line-height: 97px;
+}
+.bottomsectionHeading h2{
+    font-weight: 500;
+    font-size: 66px;
+    line-height: 97px;
+}
+.bottomsectionPara{
+    width: 560px;
+    height: 99px;
+    opacity: 30%;
+}
+
+.bottomsectionPara p1{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+}
+.bottomsectionMain{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.bottomsectionInput{
+    width: 438px;
+    height: 74px;
+    display: flex;
+    border-radius: 43px;
+    background-color: #2E2E2E;
+    align-items: center;
+}
+
+.bottomsectionInput input{
+    width: 301px;
+    height: 74px;
+    border: none;
+    background-color: #2E2E2E;
+    border-radius: 43px;
+}
+.bottomsectionInput button{
+    width: 137px;
+    height: 64px;
+    border-radius: 43px;
+    background-color: var(--color-primary);
+}
